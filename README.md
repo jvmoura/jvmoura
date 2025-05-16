@@ -1,6 +1,6 @@
 ## 👨🏻‍💻João Vitor Moura
 
-**`Desenvolvedor Fullstacks`**
+**`Desenvolvedor Fullstack`**
 
 Olá, me chamo João Vitor e sou estudante de Ciência da Computação na Universdade Federal do Ceará(UFC). Atulmente estou estudando Desenvolvimento Web para poder atuar como desenvolvedor.
 
