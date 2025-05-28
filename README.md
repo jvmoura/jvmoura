@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá, me chamo João Vitor e sou estudante de Ciência da Computação na Universdade Federal do Ceará(UFC). Atulmente estou estudando Desenvolvimento Web para poder atuar como desenvolvedor.
+Olá, me chamo João Vitor e sou estudante de Ciência da Computação na Universdade Federal do Ceará(UFC). Atulmente estou estudando Desenvolvimento Web para poder atuar como desenvolvedor Fullstack.
 
 ---
 
@@ -32,6 +32,12 @@ align="left"
 width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"       
+/>
+<img
+align="left"
+width="30px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"       
 />
 <img
 align="left"
