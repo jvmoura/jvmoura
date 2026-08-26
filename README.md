@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá, me chamo João Vitor e sou um desenvolvedor web graduado em Ciência da Computação pela Universdade Federal do Ceará(UFC). Atualmente estou trabalhando com desenvolvimento Web com React, TypeScript e Tailwind.
+Olá, me chamo João Vitor e sou um desenvolvedor web graduado em Ciência da Computação pela Universdade Federal do Ceará(UFC). Atualmente estou trabalhando com desenvolvimento Web focado no frontend usando React, TypeScript e Tailwind.
 
 ---
 
