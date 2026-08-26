@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá, me chamo João Vitor e sou estudante de Ciência da Computação na Universdade Federal do Ceará(UFC). Atualmente estou trabalhando com desenvolvimento mobile usando React Native e estudando Desenvolvimento Web para poder atuar como desenvolvedor Fullstack.
+Olá, me chamo João Vitor e sou um desenvolvedor web graduado em Ciência da Computação pela Universdade Federal do Ceará(UFC). Atualmente estou trabalhando com desenvolvimento Web com React, TypeScript e Tailwind.
 
 ---
 
@@ -38,6 +38,12 @@ align="left"
 width="30px"
 style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"       
+/>
+<img
+align="left"
+width="30px"
+style="padding-right: 10px"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"       
 />
 <img
 align="left"
